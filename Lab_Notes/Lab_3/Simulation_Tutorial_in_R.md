@@ -114,4 +114,4 @@ simulated_income_nora %>%
   scale_y_continuous(labels = scales::dollar)
 ```
 
-![](Simulation_Tutorial_files/figure-markdown_github/plot-1.png)
+![](Simulation_Tutorial_in_R_files/figure-markdown_github/plot-1.png)
